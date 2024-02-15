@@ -19,6 +19,8 @@
     - 스택 : Last In First Out(LIFO)
         - POP - list.pop()
         - push - list.append() 와 동일
+    - ![stack](https:)
+
     - 큐 : First In First Out(FIFO)
     - 트리
     - 그래프
@@ -27,6 +29,8 @@
 - 파이썬 자료구조
     - 트리
     - 큐
+    - 트리
+    - 그래프
 
 ## 5일차
 
