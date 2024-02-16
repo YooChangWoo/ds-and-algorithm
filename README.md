@@ -29,7 +29,7 @@
    ![stack](https://cs.lmu.edu/~ray/images/stack.gif)
   - 큐 : First In First Out (FIFO)
 
-   ![queue](https://raw.githubusercontent.com/Juhyi/ds-and-algorithm/main/imges/ds01.png)
+   ![queue](https://raw.githubusercontent.com/YooChangWoo/ds-and-algorithm/main/images/queue.png)
   - 트리
   - 그래프
 
@@ -45,7 +45,7 @@
     - 그래프
 
 
-    ![그래프개념](https://raw.githubusercontent.com/YooChangWoo/ds-and-algorithm-2024/main/images/graph02.png)
+    ![그래프개념](https://raw.githubusercontent.com/YooChangWoo/ds-and-algorithm/main/images/graph02.png)
     ![graph](https://raw.githubusercontent.com/ljunghwan0928/DS-and-Algorium-2024/main/images/graph2.png)
 ## 6일차
 - 파이썬 자료구조/알고리즘
