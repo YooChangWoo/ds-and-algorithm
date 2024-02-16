@@ -46,7 +46,6 @@
 
 
     ![그래프개념](https://raw.githubusercontent.com/YooChangWoo/ds-and-algorithm/main/images/graph02.png)
-    ![graph](https://raw.githubusercontent.com/ljunghwan0928/DS-and-Algorium-2024/main/images/graph2.png)
 ## 6일차
 - 파이썬 자료구조/알고리즘
   - 재귀호출
